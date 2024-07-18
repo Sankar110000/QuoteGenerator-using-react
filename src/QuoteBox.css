@@ -1,0 +1,6 @@
+.container{
+    background-color: rgb(8, 69, 169);
+    padding: 25px;
+    border: 2px solid aliceblue;
+    border-radius: 10px;
+}
